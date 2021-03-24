@@ -1,5 +1,5 @@
 #!/bin/bash
-//https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
 read N
 SUM=0

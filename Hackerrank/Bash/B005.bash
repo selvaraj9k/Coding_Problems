@@ -1,5 +1,5 @@
 #!/bin/bash
-//https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem
+#https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem
 
 read X;
 read Y;

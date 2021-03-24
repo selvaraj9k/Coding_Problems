@@ -1,6 +1,6 @@
 #!/bin/bash
 
-//https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem
+#https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem
 
 read X
 read Y

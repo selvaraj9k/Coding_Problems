@@ -1,5 +1,5 @@
 #!/bin/bash
-//https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem
+#https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem
 
 read character
 

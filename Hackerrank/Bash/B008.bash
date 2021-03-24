@@ -1,6 +1,6 @@
 #!/bin/bash
 
-//https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem?h_r=next-challenge&h_v=zen
+#https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem?h_r=next-challenge&h_v=zen
 
 read X
 read Y
