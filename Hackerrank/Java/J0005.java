@@ -1,6 +1,6 @@
 /*https://www.hackerrank.com/challenges/java-output-formatting/problem*/
 import java.util.Scanner;
-public class J005 {
+public class J0005 {
 
     public static void main(String[] args) {
             Scanner sc=new Scanner(System.in);

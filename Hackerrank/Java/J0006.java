@@ -1,7 +1,7 @@
 /*https://www.hackerrank.com/challenges/java-loops-i/problem*/
 
 import java.util.*;
-public class J007 {
+public class J0007 {
 
 
 
