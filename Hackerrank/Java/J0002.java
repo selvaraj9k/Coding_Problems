@@ -1,7 +1,7 @@
 /*https://www.hackerrank.com/challenges/java-stdin-and-stdout-1*/
 import java.util.*;
 
-public class J002 {
+public class J0002 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
