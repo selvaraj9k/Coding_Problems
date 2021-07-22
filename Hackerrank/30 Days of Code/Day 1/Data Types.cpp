@@ -2,7 +2,7 @@
  * https://www.hackerrank.com/challenges/30-data-types/problem
  */
 
-nclude <iostream>
+#include <iostream>
 #include <iomanip>
 #include <limits>
 
