@@ -1,4 +1,7 @@
-/*https://www.hackerrank.com/challenges/hello-world-c/problem*/
+/*
+https://www.hackerrank.com/challenges/hello-world-c/problem
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
