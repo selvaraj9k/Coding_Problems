@@ -1,13 +1,5 @@
 #https://www.hackerrank.com/challenges/xml-1-find-the-score/problem
-"""
-6
-<feed xml:lang='en'>
-    <title>HackerRank</title>
-    <subtitle lang='en'>Programming challenges</subtitle>
-    <link rel='alternate' type='text/html' href='http://hackerrank.com/'/>
-    <updated>2013-12-25T12:00:00</updated>
-</feed>
-"""
+
 import sys
 import xml.etree.ElementTree as etree
 
