@@ -1,3 +1,4 @@
+//Arrays concept
 //https://www.hackerrank.com/challenges/js10-arrays/problem
 
 function getSecondLargest(nums) {
