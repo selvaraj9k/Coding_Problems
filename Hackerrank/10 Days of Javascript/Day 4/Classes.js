@@ -1,6 +1,8 @@
 //https://www.hackerrank.com/challenges/js10-class/problem
 
 
+
+
 class Polygon {
     constructor(sides) {
         this.sides = sides;
