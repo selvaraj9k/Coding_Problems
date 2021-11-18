@@ -3,8 +3,8 @@
 
 def average(array):
     heights = set(array)
-    averg = sum(heights) / len(heights)
-    return averg
+    ave = sum(heights) / len(heights)
+    return ave
 
 if __name__ == '__main__':
     n = int(input())
