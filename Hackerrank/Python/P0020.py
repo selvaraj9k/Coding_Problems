@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
 
 N=int(input())

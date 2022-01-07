@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #https://www.hackerrank.com/challenges/python-loops/problem
 
 if __name__ == '__main__':

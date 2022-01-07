@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #https://www.hackerrank.com/challenges/xml-1-find-the-score/problem
 
 import sys

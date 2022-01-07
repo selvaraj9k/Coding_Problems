@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #https://www.hackerrank.com/challenges/exceptions/problem
 
 for i in range(int(input())):

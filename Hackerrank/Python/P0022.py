@@ -1,4 +1,5 @@
-https://www.hackerrank.com/challenges/itertools-product/problem
+#!/usr/bin/python
+#https://www.hackerrank.com/challenges/itertools-product/problem
 
 from itertools import product
 a = list(map(int, input().split()))

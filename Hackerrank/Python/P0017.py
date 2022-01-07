@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #https://www.hackerrank.com/challenges/list-comprehensions/problem
 
 if __name__ == '__main__':

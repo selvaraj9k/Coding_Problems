@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #https://www.hackerrank.com/challenges/whats-your-name/problem
 
 def print_full_name(first, last):

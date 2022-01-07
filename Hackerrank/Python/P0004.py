@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #https://www.hackerrank.com/challenges/python-division/problem
 
 if __name__ == '__main__':

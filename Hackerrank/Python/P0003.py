@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 #https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
 
 if __name__ == '__main__':

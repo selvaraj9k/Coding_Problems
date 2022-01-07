@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #https://www.hackerrank.com/challenges/write-a-function/problem
 
 def is_leap(year):
