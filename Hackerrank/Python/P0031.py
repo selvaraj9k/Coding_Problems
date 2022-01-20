@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #https://www.hackerrank.com/challenges/find-a-string/problem
 def count_substring(string, sub_string):
     count = 0
