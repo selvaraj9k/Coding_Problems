@@ -5,5 +5,4 @@ function greeting(parameterVariable)
 {
     console.log('Hello, World!');
     process.stdout.write(parameterVariable);
-
 }
