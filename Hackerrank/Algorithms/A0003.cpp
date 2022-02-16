@@ -18,5 +18,4 @@ int main()
     }
         cout<<fixed<<setprecision(0)<<sum;
         return 0;
-
 }
